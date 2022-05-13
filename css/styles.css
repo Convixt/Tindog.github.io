@@ -1,0 +1,47 @@
+#title {
+    background-color: red;
+    color: black;
+}
+h1{
+font-family: "Montserrat-blabk";
+}
+h3{
+    font-style: oblique;
+}
+p{
+    font-style: oblique;
+    color: grey;
+}
+.container-fluid{
+padding: 3% 15%;
+}
+.options{
+    text-align: right;
+    margin-left: 675px;
+}
+.navbar-brand{
+    font-size: 2.5rem;
+}
+.navbar{
+    padding-bottom: 2.5rem;
+}
+.iphone-image{
+    transform: rotate(45deg);
+}
+.space{
+    padding-top: 1.5rem;
+}
+#features{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.icon{
+    color: orangered;
+    padding-bottom: 10%;
+}
+.icon:hover{
+    color: red;
+}
